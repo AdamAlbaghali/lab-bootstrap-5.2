@@ -1,1 +1,27 @@
 /* Add custom css styles here */
+header {
+    height: 400px;
+    background-image: url('bakers.svg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  footer{
+    text-align:center;
+  }
+  header h1 {
+    color: white;
+    font-size: 3rem;
+  }
+  
+  header p {
+    color: white;
+    font-size: 1.25rem;
+  }
+  
+  body, html {
+    margin: 0;
+    padding: 0;
+}
