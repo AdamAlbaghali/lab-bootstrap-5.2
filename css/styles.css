@@ -1,7 +1,7 @@
 /* Add custom css styles here */
 header {
     height: 400px;
-    background-image: url('bakers.svg');
+    background-image: url('images/bakers.svg');
     background-size: cover;
     display: flex;
     justify-content: center;
