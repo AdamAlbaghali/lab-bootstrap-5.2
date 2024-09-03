@@ -1,6 +1,6 @@
 /* Add custom css styles here */
 header {
-    height: 400px;
+    height: 20px;
     background-image: url('images/bakers.svg');
     background-size: cover;
     display: flex;
@@ -21,7 +21,4 @@ header {
     font-size: 1.25rem;
   }
   
-  body, html {
-    margin: 0;
-    padding: 0;
-}
+
